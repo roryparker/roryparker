@@ -1,8 +1,6 @@
 👋 Hi, I’m Rory
 
-Although my day entails being a Support Engineer, by night I'm developing Software Engineer skills and techniques. I am comfortable with Javascript, HTML, CSS, and COBOL. 
-
-I am working on several projects to help be well rounded and confident. Ask me about any of them!
+Although my day entails being a Support Engineer, by night I'm developing Software Engineer skills and techniques to become well rounded and confident. I am comfortable with Javascript, HTML, CSS, and COBOL! I have several projects in the works. Ask me about any of them!
 
 You can send an Email me or find me on Instagram!
 
