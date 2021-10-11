@@ -1,6 +1,6 @@
 👋 I’m Rory
 
-Although my day entails being a Support Engineer, by night I'm acquiring Software Engineer and System Design skills and to become well-rounded and confident. 
+After supporting products and services for several years at various companies, I made the decision to build them. I moved into software engineering. I took on Web Development and System Design techniques and gained interesting new perspectives and skills.
 
 I am comfortable with Javascript, HTML, CSS, and COBOL! I have several projects in the works. Ask me about them!
 
