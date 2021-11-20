@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/nolan/64/git.png" width="30px;" alt="GIT" />
   </a>
     </a>
-    <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
+    <a target = "_blank" href="https://www.linux.org/">
     <img src="https://img.icons8.com/nolan/64/linux--v2.png" width="30px;" alt="Linux" />
   </a>
 </p>
