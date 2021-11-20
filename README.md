@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <strong> Technologies </strong>
+  <strong> TECHNOLOGIES I USE</strong>
 </p>
 
 <p align="center">
