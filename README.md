@@ -4,9 +4,10 @@ After supporting products and services for several years at various companies, I
 
 <p align="center">
 
-  I am comfortable with Javascript, HTML, CSS. And I am working with COBOL! I have several projects in the works. Ask me about them!
+<p> I am comfortable with Javascript, HTML, CSS. And I am working with COBOL! I have several projects in the works. Ask me about them! </p>
 
-Talk to me on LinkedIn, Email, or Instagram
+<p> Talk to me on LinkedIn, Email, or Instagram </p>
+
 </p>
 
 <!---
