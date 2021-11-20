@@ -1,6 +1,9 @@
 👋 I’m Rory
 
-After supporting products and services for several years at various companies, I made the decision to build them. I took on Web Development and System Design techniques and gained interesting new perspectives and skills.
+<p align="center">
+After supporting products and services I made the decision to build them. 
+I took on Web Development and System Design techniques and gained interesting new perspectives and skills.
+</p>
 
 <p align="center">
   I am comfortable with Javascript, HTML, CSS. And I am working with COBOL! I have several projects in the works. Ask me about them! 
