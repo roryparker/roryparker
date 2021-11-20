@@ -1,7 +1,7 @@
 
 
 <p align="center">
-👋 I’m Rory - After supporting products and services for a while, I decided to build them using my new Web Development and System Design skills.
+👋 I’m Rory - After supporting products/services for a while, I decided to build them using my new Web Development and System Design skills.
 </p>
 
 <p align="center">
@@ -28,7 +28,9 @@ You can click the Preview link to take a look at your changes.
 
 // See [my website](xxxxxxxxxxxxxxxx) for more information!
 
+<p align="center">
 #### Technologies
+</p>
 
 <p align="center">
   <a target = "_blank" href="https://www.linkedin.com/in/roryp/">
