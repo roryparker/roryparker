@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
     <img src = "https://img.icons8.com/color/48/000000/javascript--v1.png" width="30px;" alt="Javascript" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/office1/16/000000/react.png" width="30px;" alt="React" />
+    <img src = "https://img.icons8.com/officel/16/000000/react.png" width="30px;" alt="React" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
     <img src = "https://img.icons8.com/dusk/64/000000/php-logo.png" width="30px;" alt="PHP" />
