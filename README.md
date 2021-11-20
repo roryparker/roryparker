@@ -7,7 +7,7 @@ After supporting products and services for several years at various companies, I
 </p>
 
 <p align="center">
-  <p> Talk to me on LinkedIn, Email, or Instagram </p>
+  Talk to me on LinkedIn, Email, or Instagram.
 </p>
 
 <!---
