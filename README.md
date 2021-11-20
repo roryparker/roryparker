@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 // See [my website](xxxxxxxxxxxxxxxx) for more information!
 
 <p align="center">
-#### Technologies
+  <strong> Technologies </strong>
 </p>
 
 <p align="center">
