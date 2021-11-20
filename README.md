@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" href="https://shawncharles.com/">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/shawnxcharles/">
+  <a target="_blank" href="https://www.linkedin.com/in/roryp/">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
   <a target="_blank" href="https://www.instagram.com/rorysethparker/">
