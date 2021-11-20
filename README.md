@@ -41,13 +41,13 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/nolan/64/javascript.png" width="30px;" alt="Javascript" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/officel/16/000000/react.png" width="30px;" alt="React" />
+    <img src="https://img.icons8.com/nolan/64/react-native.png" width="30px;" alt="React" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/dusk/64/000000/php-logo.png" width="30px;" alt="PHP" />
+    <img src="https://img.icons8.com/nolan/64/php.png" width="30px;" alt="PHP" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/000000/external-triceratops-animal-head-icongeek26-outline-colour-icongeek26.png"
+      <img src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/000000/external-triceratops-animal-head-icongeek26-outline-gradient-icongeek26.png"
       width="30px;" alt="COBOL" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
