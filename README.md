@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
     <img src ="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
   </a>
   <a target = "_blank" href="https://www.linkedin.com/in/roryp/">
-    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="LinkedIn" />
+    <img src = "https://img.icons8.com/nolan/64/linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
   <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png" width="30px;" alt="Twitter" />
+    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="Twitter" />
   </a>
   <a target = "_blank" href="http://travelara.org">
     <img src ="images/plane.png" width="30px;" alt="Travelara.org"/>
