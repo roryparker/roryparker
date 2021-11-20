@@ -26,8 +26,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-// See [my website](xxxxxxxxxxxxxxxx) for more information!
-
 <p align="center">
   <strong> Technologies </strong>
 </p>
@@ -37,7 +35,7 @@ You can click the Preview link to take a look at your changes.
     <img src = "https://img.icons8.com/color/48/000000/html-5.png" width="30px;" alt="HTML5" />
   </a>
   <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/color/48/000000/css3.png" width="30px;" alt="CSS3" />
+    <img src="https://img.icons8.com/nolan/64/css-filetype.png" width="30px;" alt="CSS3" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
     <img src = "https://img.icons8.com/color/48/000000/javascript--v1.png" width="30px;" alt="Javascript" />
@@ -56,9 +54,3 @@ You can click the Preview link to take a look at your changes.
     <img src = "https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30px;" alt="AWS" />
   </a>
 </p>
-
-
-[![Html Badge](https://img.shields.io/static/v1?label=|&message=HTML5&color=orange&style=plastic&logo=html5)](#) [![CSS Badge](https://img.shields.io/static/v1?label=|&message=CSS3&color=blue&style=plastic&logo=css3)](#) [![Javascript Badge](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=yellow&style=plastic&logo=javascript)](#) [![React Badge](https://img.shields.io/static/v1?label=|&message=REACT.JS&color=lightblue&style=plastic&logo=react)](#) [![AWS Badge](https://img.shields.io/static/v1?label=|&message=AWS&color=cdd148&style=plastic&logo=amazon)](#) [![PHP Badge](https://img.shields.io/static/v1?label=|&message=PHP&color=70a1ff&style=plastic&logo=php)](#) [![COBOL Badge](https://img.shields.io/static/v1?label=|&message=COBOL&color=cdd148&style=plastic&logo=cobol)](#)
-
-
----
