@@ -1,8 +1,7 @@
 👋 I’m Rory
 
 <p align="center">
-After supporting products and services I made the decision to build them. 
-I took on Web Development and System Design techniques and gained interesting new perspectives and skills.
+After supporting products and services for a while, I decided to build them using my new Web Development and System Design skills.
 </p>
 
 <p align="center">
