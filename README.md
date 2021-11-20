@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" href="https://www.linkedin.com/in/shawnxcharles/">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
-  <a target="_blank" href="https://twitter.com/shawnbasquiat">
-    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
+  <a target="_blank" href="https://www.instagram.com/rorysethparker/">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-instagram.png" width="30px;" alt="Twitter" />
   </a>
   <a target="_blank" href="http://travelara.org">
     <img src="images/plane.png" width="30px;" alt="Travelara.org"/>
