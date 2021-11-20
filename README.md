@@ -11,11 +11,6 @@ roryparker/roryparker is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-  <a target="_blank" href="https://shawncharles.com/">
-  <img src="https://i.imgur.com/536JNd9.jpg" width="100%">
-</a>
-
 <p align="center">
   <a target="_blank" href="https://shawncharles.com/">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
