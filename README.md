@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 // See [my website](xxxxxxxxxxxxxxxx) for more information!
 
+#### Technologies
+
 <p align="center">
   <a target = "_blank" href="https://www.linkedin.com/in/roryp/">
     <img src = "https://img.icons8.com/nolan/64/linkedin.png" width="30px;" alt="HTML5" />
@@ -53,7 +55,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-#### Technologies
 [![Html Badge](https://img.shields.io/static/v1?label=|&message=HTML5&color=orange&style=plastic&logo=html5)](#) [![CSS Badge](https://img.shields.io/static/v1?label=|&message=CSS3&color=blue&style=plastic&logo=css3)](#) [![Javascript Badge](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=yellow&style=plastic&logo=javascript)](#) [![React Badge](https://img.shields.io/static/v1?label=|&message=REACT.JS&color=lightblue&style=plastic&logo=react)](#) [![AWS Badge](https://img.shields.io/static/v1?label=|&message=AWS&color=cdd148&style=plastic&logo=amazon)](#) [![PHP Badge](https://img.shields.io/static/v1?label=|&message=PHP&color=70a1ff&style=plastic&logo=php)](#) [![COBOL Badge](https://img.shields.io/static/v1?label=|&message=COBOL&color=cdd148&style=plastic&logo=cobol)](#)
 
 
