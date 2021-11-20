@@ -3,7 +3,10 @@
 After supporting products and services for several years at various companies, I made the decision to build them. I took on Web Development and System Design techniques and gained interesting new perspectives and skills.
 
 <p align="center">
-  <p> I am comfortable with Javascript, HTML, CSS. And I am working with COBOL! I have several projects in the works. Ask me about them! </p>
+  I am comfortable with Javascript, HTML, CSS. And I am working with COBOL! I have several projects in the works. Ask me about them! 
+</p>
+
+<p align="center">
   <p> Talk to me on LinkedIn, Email, or Instagram </p>
 </p>
 
