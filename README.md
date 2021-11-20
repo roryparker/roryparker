@@ -1,7 +1,7 @@
 
 
 <p align="center">
-👋 I’m Rory - After supporting products/services for a while, I decided to build them using my new Web Development and System Design skills.
+After supporting products/services for a while, I decided to build them using my new Web Development and System Design skills.
 </p>
 
 <p align="center">
