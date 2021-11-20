@@ -49,7 +49,8 @@ You can click the Preview link to take a look at your changes.
     <img src = "https://img.icons8.com/dusk/64/000000/php-logo.png" width="30px;" alt="PHP" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/000000/external-triceratops-animal-head-icongeek26-linear-colour-icongeek26.png" width="30px;" alt="COBOL" />
+    <img src = "https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/000000/external-triceratops-animal-head-icongeek26-outline-colour-icongeek26.png"
+      width="30px;" alt="COBOL" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
     <img src = "https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30px;" alt="AWS" />
