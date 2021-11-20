@@ -26,10 +26,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-
-
-Motivated by the power of technology as a tool for positive change, I am a Boston-based full-stack software engineer with a background in Math, Physics, and Business Management.
-
 // See [my website](xxxxxxxxxxxxxxxx) for more information!
 
 <p align="center">
