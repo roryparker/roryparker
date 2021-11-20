@@ -32,13 +32,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a target = "_blank" href="https://www.linkedin.com/in/roryp/">
-    <img src = "https://img.icons8.com/color/48/000000/html-5.png" width="30px;" alt="HTML5" />
+    <img src="https://img.icons8.com/nolan/64/html-5.png" width="30px;" alt="HTML5" />
   </a>
   <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
     <img src="https://img.icons8.com/nolan/64/css-filetype.png" width="30px;" alt="CSS3" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/color/48/000000/javascript--v1.png" width="30px;" alt="Javascript" />
+    <img src="https://img.icons8.com/nolan/64/javascript.png" width="30px;" alt="Javascript" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
     <img src = "https://img.icons8.com/officel/16/000000/react.png" width="30px;" alt="React" />
