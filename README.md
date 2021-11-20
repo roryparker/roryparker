@@ -4,7 +4,7 @@ After supporting products and services for several years at various companies, I
 
 I am comfortable with Javascript, HTML, CSS, and COBOL! I have several projects in the works. Ask me about them!
 
-You can send an Email me or find me on Instagram!
+                                    Talk to me on LinkedIn, Email, or Instagram
 
 <!---
 roryparker/roryparker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
