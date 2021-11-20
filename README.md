@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
     <img src = "https://img.icons8.com/nolan/64/linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
   <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="Twitter" />
+    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="Instagram" />
   </a>
 </p>
 
@@ -31,6 +31,31 @@ You can click the Preview link to take a look at your changes.
 Motivated by the power of technology as a tool for positive change, I am a Boston-based full-stack software engineer with a background in Math, Physics, and Business Management.
 
 // See [my website](xxxxxxxxxxxxxxxx) for more information!
+
+<p align="center">
+  <a target = "_blank" href="https://www.linkedin.com/in/roryp/">
+    <img src = "https://img.icons8.com/nolan/64/linkedin.png" width="30px;" alt="HTML5" />
+  </a>
+  <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
+    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="CSS3" />
+  </a>
+    <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
+    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="Javascript" />
+  </a>
+    <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
+    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="React" />
+  </a>
+    <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
+    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="PHP" />
+  </a>
+    <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
+    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="COBOL" />
+  </a>
+    <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
+    <img src = "https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30px;" alt="AWS" />
+  </a>
+</p>
+
 
 #### Technologies
 [![Html Badge](https://img.shields.io/static/v1?label=|&message=HTML5&color=orange&style=plastic&logo=html5)](#) [![CSS Badge](https://img.shields.io/static/v1?label=|&message=CSS3&color=blue&style=plastic&logo=css3)](#) [![Javascript Badge](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=yellow&style=plastic&logo=javascript)](#) [![React Badge](https://img.shields.io/static/v1?label=|&message=REACT.JS&color=lightblue&style=plastic&logo=react)](#) [![AWS Badge](https://img.shields.io/static/v1?label=|&message=AWS&color=cdd148&style=plastic&logo=amazon)](#) [![PHP Badge](https://img.shields.io/static/v1?label=|&message=PHP&color=70a1ff&style=plastic&logo=php)](#) [![COBOL Badge](https://img.shields.io/static/v1?label=|&message=COBOL&color=cdd148&style=plastic&logo=cobol)](#)
