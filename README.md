@@ -34,22 +34,22 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a target = "_blank" href="https://www.linkedin.com/in/roryp/">
-    <img src = "https://img.icons8.com/nolan/64/linkedin.png" width="30px;" alt="HTML5" />
+    <img src = "https://img.icons8.com/color/48/000000/html-5.png" width="30px;" alt="HTML5" />
   </a>
   <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="CSS3" />
+    <img src = "https://img.icons8.com/color/48/000000/css3.png" width="30px;" alt="CSS3" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="Javascript" />
+    <img src = "https://img.icons8.com/color/48/000000/javascript--v1.png" width="30px;" alt="Javascript" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="React" />
+    <img src = "https://img.icons8.com/color/16/000000/react.png" width="30px;" alt="React" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/nolan/64/instagram-new.png" width="30px;" alt="PHP" />
+    <img src = "https://img.icons8.com/dusk/64/000000/php-logo.png" width="30px;" alt="PHP" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
-    <img src = "https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/50/000000/external-triceratops-animal-head-icongeek26-outline-colour-icongeek26.png" width="30px;" alt="COBOL" />
+    <img src = "https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/000000/external-triceratops-animal-head-icongeek26-linear-colour-icongeek26.png" width="30px;" alt="COBOL" />
   </a>
     <a target = "_blank" href="https://www.instagram.com/rorysethparker/">
     <img src = "https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30px;" alt="AWS" />
