@@ -5,7 +5,7 @@ After supporting products/services for a while, I decided to build them using my
 </p>
 
 <p align="center">
-  I am comfortable with Javascript, HTML, CSS. And I am working with COBOL! I have several projects in the works. Ask me about them! 
+  I am comfortable with Javascript, HTML, CSS. I have several projects in the works. Ask me about them! 
 </p>
 
 <p align="center">
